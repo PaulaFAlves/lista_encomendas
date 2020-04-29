@@ -28,7 +28,8 @@ $(document).ready(function() {
                     ],
                     language: {
                         "sZeroRecords": "Nenhum registro encontrado",
-                    }
+                    },
+                    pageLength: 4,
                 });
         }
     });

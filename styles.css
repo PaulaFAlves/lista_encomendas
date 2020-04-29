@@ -7,8 +7,7 @@
 }
 body {
     margin: 50px;
-    background-image: linear-gradient(to bottom, #ffffff, #CDC9C9);
-    background-size: contain;
+    background-color: #fff;
 }
 .header {
     text-align: center;
